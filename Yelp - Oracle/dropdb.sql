@@ -1,0 +1,9 @@
+drop table business28category;
+drop table YELP_REVIEW;
+drop table businessAttributes;
+drop table businessCategories;
+drop table businesstimings;
+drop table yelpBusiness;
+drop table userElite;
+drop table UserFriends;
+drop table YELPUSER;
